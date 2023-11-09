@@ -1,0 +1,58 @@
+{
+  "Ac3": {
+    "clue": "Standar Komunikasi antar komponen Perangkat Lunak",
+    "answer": "api",
+    "direction": "across",
+    "number": 3,
+    "boxes": ["B6", "B7", "B8"]
+  },
+  "Dn1": {
+    "clue": "Bahasa Pemrograman yang Digunakan untuk Membuat Halaman Web Interaktif",
+    "answer": "javascript",
+    "direction": "down",
+    "number": 1,
+    "boxes": ["A6", "B6", "C6", "D6", "E6", "F6", "G6", "H6", "I6", "J6"]
+  },
+  "Dn2": {
+    "clue": "Bahasa Pemrograman yang digunakan untuk pengembangan Aplikasi iOS",
+    "answer": "swift",
+    "direction": "down",
+    "number": 2,
+    "boxes": ["B2", "C2", "D2", "E2", "F2"]
+  },
+  "Ac4": {
+    "clue": "Perangkat lunak yang memblokir akses ke situs web tertentu",
+    "answer": "firewall",
+    "direction": "across",
+    "number": 4,
+    "boxes": ["D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8"]
+  },
+  "Dn5": {
+    "clue": "Bahasa Pemrograman yang Digunakan untuk Pengembangan Aplikasi Android",
+    "answer": "kotlin",
+    "direction": "down",
+    "number": 5,
+    "boxes": ["E9", "F9", "G9", "H9", "I9", "J9"]
+  },
+  "Dn6": {
+    "clue": "Model pengembangan perangkat lunak yang menggabungkan pengembangan dan operasi",
+    "answer": "devops",
+    "direction": "down",
+    "number": 6,
+    "boxes": ["F4", "G4", "H4", "I4", "J4", "K4"]
+  },
+  "Ac7": {
+    "clue": "Perangkat keras yang menghubungkan komputer ke jaringan.",
+    "answer": "router",
+    "direction": "across",
+    "number": 7,
+    "boxes": ["G6", "G7", "G8", "G9", "G10", "G11"]
+  },
+  "Ac8": {
+    "clue": "Bahasa Pemrograman yang fokus pada pengolahan data ilmiah",
+    "answer": "python",
+    "direction": "across",
+    "number": 8,
+    "boxes": ["J4", "J5", "J6", "J7", "J8", "J9"]
+  }
+}

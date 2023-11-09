@@ -1,0 +1,728 @@
+[
+  {
+    "id": "A1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A2",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A4",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A6",
+    "letter": "J",
+    "clues": ["Dn1"],
+    "label": 1
+  },
+  {
+    "id": "A7",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A8",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A9",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "A11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "B1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "B2",
+    "letter": "S",
+    "clues": ["Dn2"],
+    "label": 2
+  },
+  {
+    "id": "B3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "B4",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "B5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "B6",
+    "letter": "A",
+    "clues": ["Dn1", "Ac3"],
+    "label": 3
+  },
+  {
+    "id": "B7",
+    "letter": "P",
+    "clues": ["Ac3"],
+    "label": null
+  },
+  {
+    "id": "B8",
+    "letter": "I",
+    "clues": ["Ac3"],
+    "label": null
+  },
+  {
+    "id": "B9",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "B10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "B11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C2",
+    "letter": "W",
+    "clues": ["Dn2"],
+    "label": null
+  },
+  {
+    "id": "C3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C4",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C6",
+    "letter": "V",
+    "clues": ["Dn1"],
+    "label": null
+  },
+  {
+    "id": "C7",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C8",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C9",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "C11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "D1",
+    "letter": "F",
+    "clues": ["Ac4"],
+    "label": 4
+  },
+  {
+    "id": "D2",
+    "letter": "I",
+    "clues": ["Dn2", "Ac4"],
+    "label": null
+  },
+  {
+    "id": "D3",
+    "letter": "R",
+    "clues": ["Ac4"],
+    "label": null
+  },
+  {
+    "id": "D4",
+    "letter": "E",
+    "clues": ["Ac4"],
+    "label": null
+  },
+  {
+    "id": "D5",
+    "letter": "W",
+    "clues": ["Ac4"],
+    "label": null
+  },
+  {
+    "id": "D6",
+    "letter": "A",
+    "clues": ["Dn1", "Ac4"],
+    "label": null
+  },
+  {
+    "id": "D7",
+    "letter": "L",
+    "clues": ["Ac4"],
+    "label": null
+  },
+  {
+    "id": "D8",
+    "letter": "L",
+    "clues": ["Ac4"],
+    "label": null
+  },
+  {
+    "id": "D9",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "D10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "D11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E2",
+    "letter": "F",
+    "clues": ["Dn2"],
+    "label": null
+  },
+  {
+    "id": "E3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E4",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E6",
+    "letter": "S",
+    "clues": ["Dn1"],
+    "label": null
+  },
+  {
+    "id": "E7",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E8",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E9",
+    "letter": "K",
+    "clues": ["Dn5"],
+    "label": 5
+  },
+  {
+    "id": "E10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "E11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "F1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "F2",
+    "letter": "T",
+    "clues": ["Dn2"],
+    "label": null
+  },
+  {
+    "id": "F3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "F4",
+    "letter": "D",
+    "clues": ["Dn6"],
+    "label": 6
+  },
+  {
+    "id": "F5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "F6",
+    "letter": "C",
+    "clues": ["Dn1"],
+    "label": null
+  },
+  {
+    "id": "F7",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "F8",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "F9",
+    "letter": "O",
+    "clues": ["Dn5"],
+    "label": null
+  },
+  {
+    "id": "F10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "F11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "G1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "G2",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "G3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "G4",
+    "letter": "E",
+    "clues": ["Dn6"],
+    "label": null
+  },
+  {
+    "id": "G5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "G6",
+    "letter": "R",
+    "clues": ["Dn1", "Ac7"],
+    "label": 7
+  },
+  {
+    "id": "G7",
+    "letter": "O",
+    "clues": ["Ac7"],
+    "label": null
+  },
+  {
+    "id": "G8",
+    "letter": "U",
+    "clues": ["Ac7"],
+    "label": null
+  },
+  {
+    "id": "G9",
+    "letter": "T",
+    "clues": ["Dn5", "Ac7"],
+    "label": null
+  },
+  {
+    "id": "G10",
+    "letter": "E",
+    "clues": ["Ac7"],
+    "label": null
+  },
+  {
+    "id": "G11",
+    "letter": "R",
+    "clues": ["Ac7"],
+    "label": null
+  },
+  {
+    "id": "H1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "H2",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "H3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "H4",
+    "letter": "V",
+    "clues": ["Dn6"],
+    "label": null
+  },
+  {
+    "id": "H5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "H6",
+    "letter": "I",
+    "clues": ["Dn1"],
+    "label": null
+  },
+  {
+    "id": "H7",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "H8",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "H9",
+    "letter": "L",
+    "clues": ["Dn5"],
+    "label": null
+  },
+  {
+    "id": "H10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "H11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I2",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I4",
+    "letter": "O",
+    "clues": ["Dn6"],
+    "label": null
+  },
+  {
+    "id": "I5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I6",
+    "letter": "P",
+    "clues": ["Dn1"],
+    "label": null
+  },
+  {
+    "id": "I7",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I8",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I9",
+    "letter": "I",
+    "clues": ["Dn5"],
+    "label": null
+  },
+  {
+    "id": "I10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "I11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "J1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "J2",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "J3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "J4",
+    "letter": "P",
+    "clues": ["Dn6", "Ac8"],
+    "label": 8
+  },
+  {
+    "id": "J5",
+    "letter": "Y",
+    "clues": ["Ac8"],
+    "label": null
+  },
+  {
+    "id": "J6",
+    "letter": "T",
+    "clues": ["Dn1", "Ac8"],
+    "label": null
+  },
+  {
+    "id": "J7",
+    "letter": "H",
+    "clues": ["Ac8"],
+    "label": null
+  },
+  {
+    "id": "J8",
+    "letter": "O",
+    "clues": ["Ac8"],
+    "label": null
+  },
+  {
+    "id": "J9",
+    "letter": "N",
+    "clues": ["Dn5", "Ac8"],
+    "label": null
+  },
+  {
+    "id": "J10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "J11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K1",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K2",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K3",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K4",
+    "letter": "S",
+    "clues": ["Dn6"],
+    "label": null
+  },
+  {
+    "id": "K5",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K6",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K7",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K8",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K9",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K10",
+    "letter": null,
+    "clues": null,
+    "label": null
+  },
+  {
+    "id": "K11",
+    "letter": null,
+    "clues": null,
+    "label": null
+  }
+]
